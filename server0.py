@@ -43,7 +43,8 @@ if __name__ == '__main__':
 
     # 获取本地主机名
     # host = socket.gethostname()
-    host = "47.100.33.134"
+    # host = "47.100.33.134"
+    host = "172.19.234.44"
 
     port = 9527
 
