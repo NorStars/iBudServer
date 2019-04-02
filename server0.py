@@ -1,4 +1,5 @@
 # encoding: utf-8
+#!/usr/bin/python3
 '''
 @author: Doran
 @license: www.ibud.top
